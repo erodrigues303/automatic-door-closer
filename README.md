@@ -1,1 +1,1 @@
-# automatic-door-closer
+# Automatic Door Closer
